@@ -8,7 +8,7 @@
 🇬🇧  Hello there! How are you doing?
     I hope everything is fine! 🙏
     We are in 2022 and we all know that it's been really difficult to keep cool during this Coronavirus pandemic.
-    Count until five and take a deep breath, and imagine things that make you feel good, and here we go!
+    Count until five and take a deep breath, and imagine things that make you feel good... then let´s go!
 
 
 👀
