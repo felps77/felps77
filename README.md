@@ -1,4 +1,5 @@
 👋
+
 🇧🇷  Olá! Aqui é o Felipe, tudo bem com vocês?
     Espero que todos estejam se sentindo bem! 🙏
     Estamos em 2022 e sabemos que não tem sido nada fácil se manter calmo durante esse período, que passamos em casa devido a pandemia do Coronavírus.
@@ -11,6 +12,7 @@
 
 
 👀
+
 🇧🇷  Eu trabalho como analista de sistemas e pretendo migrar para a área de dados, que é a área que eu mais me identifico.
     Pretendo futuramente estar apto a trabalhar com engenharia de dados...
 
@@ -19,6 +21,7 @@
 
 
 🌱
+
 🇧🇷  Estou revisando alguns conceitos de python e de linguagem de terminal, baseado em um roadmap para a área de engenharia de dados.
     Quero dominar ferramentas que engenheiros de dados usam para criar pipeline de dados e ETL e ELT
 
@@ -27,6 +30,7 @@
 
 
 💞️
+
 🇧🇷  Quero contribuir com uma análise do mercado financeiro e de destinação de recursos básicos para a população de forma mais eficaz e aprofundada,
     utilizando conceitos e análises estatísticas.
     
@@ -35,7 +39,8 @@
 
 
 - 📫 How to reach me ...
-- E-mail: shfelipe.dev@gmail.com
+
+E-mail: shfelipe.dev@gmail.com
 
 <!---
 felps77/felps77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
